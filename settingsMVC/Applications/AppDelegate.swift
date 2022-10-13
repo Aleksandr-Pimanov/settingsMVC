@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  settingsMVC
 //
-//  Created by новый пользователь on 13.10.2022.
+//  Created by Александр Пиманов on 13.10.2022.
 //
 
 import UIKit
